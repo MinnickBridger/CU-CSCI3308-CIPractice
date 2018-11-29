@@ -1,4 +1,4 @@
 script:
   make test
-Install:
-  sudo apt-get check
+install:
+  sudo apt-get install check
