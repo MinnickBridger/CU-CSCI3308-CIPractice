@@ -1,0 +1,4 @@
+script:
+  make test
+Install:
+  sudo apt-get check
